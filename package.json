@@ -1,0 +1,15 @@
+{
+  "name": "strong_env_key_generator",
+  "version": "1.0.0",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
